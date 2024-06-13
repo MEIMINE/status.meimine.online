@@ -49,4 +49,3 @@ do
     echo "    $dateTime, $result"
   fi
 done
-fi
